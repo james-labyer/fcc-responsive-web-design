@@ -125,7 +125,10 @@ header a {
 }
 
 .project-tile {
-  width: 430px;
+  /*width: 430px;*/
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
   margin: 3rem;
   padding: 0;
 }
@@ -135,7 +138,9 @@ header a {
 }
 
 .project-tile img {
-  width: 430px;
+  /*width: 430px;*/
+  width: 300px;
+  flex: 1 1 auto;
   margin: 0;
 }
 
