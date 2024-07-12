@@ -1,0 +1,1 @@
+This repository includes the certification projects that I completed to earn the freeCodeCamp Responsive Web Design certification. The project is hosted at https://james-labyer.github.io/fcc-responsive-web-design/
